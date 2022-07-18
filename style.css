@@ -123,6 +123,11 @@ a .tooltiptext {
   text-shadow: 2px 2px white;
 }
 
+#mainBlock .blocksOfSection:nth-child(even) p span a .tooltiptext:hover {
+  background-color: #d8eaf6;
+  color: #351569;
+}
+
 a:hover .tooltiptext {
   visibility: visible;
 }
