@@ -81,17 +81,13 @@ p span:hover {
   color: #d8eaf6;
 }
 
-sup {
-  color: gold;
-  font-weight: 700;
-}
 #mainBlock .blocksOfSection:nth-child(even) sup {
   color: #539fd8;
 }
 
 /* THIS IS FOR TOOLTIP  */
 
-a {
+a, sup {
   color: gold;
   font-weight: 700;
 }
